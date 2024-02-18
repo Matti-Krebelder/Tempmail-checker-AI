@@ -54,6 +54,10 @@ Run the script. The console will prompt you to choose an option: (E) to check an
 
  Input "b" to exit the program.
 
+## Support 📧
+
+For any questions or assistance, please contact Matti Krebelder at [info@skynethub.net](mailto:info@skynethub.net).
+
 ## Authors
 
 - [@Matti-Krebelder](https://github.com/Matti-Krebelder/)
