@@ -29,7 +29,7 @@ If you have git, you can simply start this:
    python app.py
    ```
     
-## Documentation
+## 🌐Documentation
 
 
 To use the application, follow these steps:
