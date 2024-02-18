@@ -19,15 +19,16 @@ If you have git, you can simply start this:
    git clone https://github.com/Matti-Krebelder/Tempmail-checker-AI.git
    ```
 
-2. **Installation:**
+2. **Move to folder:**
    ```bash
    cd Tempmail-checker-AI
    ```
+3. **Install requirements:**
    ```bash
    pip install -r requirements.txt
    ```
 
-3. **Run the Application:**
+4. **Run the Application:**
    ```bash
    python app.py
    ```
