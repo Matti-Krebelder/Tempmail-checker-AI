@@ -40,23 +40,23 @@ Run the script. The console will prompt you to choose an option: (E) to check an
 
 ### Checking an Email (E):
 
- Type "e", followed by the email you want to check. The program will analyze the email and display the classification result.
+    Type "e", followed by the email you want to check. The program will analyze the email and display the classification result.
 
 ### Starting Training (T):
 
- Choose "t" to initiate the training process. Enter the email to be trained and its corresponding label ("valid" or "temp"). The model will be updated with the new data.
+    Choose "t" to initiate the training process. Enter the email to be trained and its corresponding label ("valid" or "temp"). The model will be updated with the new data.
 
 ### Saving Data (S):
 
- Press "s" to save the training data to the CSV file.
+    Press "s" to save the training data to the CSV file.
 
 ### Exiting the Program (B):
 
- Input "b" to exit the program.
+    Input "b" to exit the program.
 
 ## Support 📧
 
-For any questions or assistance, please contact Matti Krebelder at [info@skynethub.net](mailto:info@skynethub.net).
+   For any questions or assistance, please contact Matti Krebelder at [info@skynethub.net](mailto:info@skynethub.net).
 
 ## Authors
 
