@@ -4,7 +4,7 @@
 This AI is capable of identifying temporary email addresses, distinguishing between temporary and valid ones. It's easily trainable using your own data, and it's implemented in Python.
 
 
-![Logo](https://skynethub.net/Tempmail-checker-AI.png)
+![Logo](http://skynethub.net/Tempmail-checker-AI.png)
 
 
 ## Getting Started 🚀
